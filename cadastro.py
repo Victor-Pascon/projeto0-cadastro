@@ -11,8 +11,11 @@ layout = [
     [sg.Output(size=(28, 5))]
 ]
 
-# Janela
+# Apénas adicionando aluns comentarios para testes de bilde!!!
+# Adoro ccafézinhos e também chocolate quente.
+# Rhummmmmmmmmmm Nham Nham
 
+# Janela
 janela = sg.Window('Tela de Login', layout)
 
 # Ler os Eventos
