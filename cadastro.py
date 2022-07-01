@@ -15,6 +15,10 @@ layout = [
 # Adoro ccafézinhos e também chocolate quente.
 # Rhummmmmmmmmmm Nham Nham
 
+#-------------------------------------------------------------------
+
+# Opa, testando e alterando o código novamente para testar a Branch (testes)
+
 # Janela
 janela = sg.Window('Tela de Login', layout)
 
